@@ -31,7 +31,8 @@ healthcare-claims-project/
 │   └── medicare_clean.csv
 └── README.md
 ## Visualizations
-
+### Medicare Claims Analytics Dashboard (Tableau)
+![Dashboard](output/dashboard.png)
 ### Top 10 Provider Types by Medicare Payment
 ![Top Providers](output/top_providers.png)
 
