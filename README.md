@@ -36,6 +36,8 @@ End-to-end healthcare analytics project analyzing **100,000+ real Medicare recor
 | Environment | Jupyter Notebook, VS Code, Anaconda |
 
 ## 📁 Project Structure
+
+```
 healthcare-claims-project/
 │
 ├── data/                            → Raw CMS Medicare 2022 dataset
@@ -56,6 +58,7 @@ healthcare-claims-project/
 │   ├── gender_distribution.png      → Gender pie chart (Phase 1)
 │   └── dashboard.png                → Tableau dashboard screenshot
 └── README.md
+```
 ## 🚀 Phase 1  Data Exploration & Visualization
 ### What We Built
 - ✅ Loaded and explored 100,000 real CMS Medicare records
