@@ -121,9 +121,3 @@ Automated checks covering:
 - **Validity** — negative values, invalid ages, out-of-range risk scores
 - **Consistency** — payment vs charges reconciliation, duplicate detection
 - **Result:** 100% PASS across all quality checks
-
-## 👤 Author
-**Yusmitha Prathi** | Data Analyst | MS Data Science - University of North Texas (GPA 3.9)
-4+ years experience in Healthcare & Enterprise Analytics
-📍 Dallas, TX | Open to Remote/Hybrid anywhere in the US
-STEM OPT Authorized
